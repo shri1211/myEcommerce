@@ -25,27 +25,27 @@ const Footer = () => {
             corporis.
           </p>
           <div className="flex items-center gap-x-4">
-            <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+            <a href="/" target="_blank">
               <span className="socialLink">
                 <BsYoutube />
               </span>
             </a>
-            <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+            <a href="https://github.com/shri1211" target="_blank">
               <span className="socialLink">
                 <BsGithub />
               </span>
             </a>
-            <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+            <a href="https://www.linkedin.com/in/shreenidhi-hegde-836395219/" target="_blank">
               <span className="socialLink">
                 <BsLinkedin />
               </span>
             </a>
-            <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+            <a href="/" target="_blank">
               <span className="socialLink">
                 <BsFacebook />
               </span>
             </a>
-            <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+            <a href="/" target="_blank">
               <span className="socialLink">
                 <BsReddit />
               </span>

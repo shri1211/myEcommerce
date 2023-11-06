@@ -19,12 +19,12 @@ export const options: NextAuthOptions = {
         username: {
           label: "Username",
           type: "text",
-          placeholder: "Enter your username",
+          placeholder: "type 'Noor' to login ",
         },
         password: {
           label: "Password",
           type: "password",
-          placeholder: "Enter your password",
+          placeholder: "type 'noor' to login",
         },
       },
       async authorize(credentials) {

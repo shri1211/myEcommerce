@@ -51,7 +51,7 @@ const PaymentForm = () => {
   // =============  Stripe Payment End here ================
   return (
     <div className="w-full bg-white p-4">
-      <h2>Cart Totals</h2>
+      <h2>Cart Total</h2>
       <div className="border-b-[1px] border-b-slate-300 py-2">
         <div className="max-w-lg flex items-center justify-between">
           <p className="uppercase font-medium">Subtotal</p>
